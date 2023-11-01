@@ -1,0 +1,8 @@
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\obj\Debug\LB1.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\obj\Debug\LB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\bin\Debug\LB1.exe.config
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\bin\Debug\LB1.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\bin\Debug\LB1.pdb
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\obj\Debug\LB1.exe
+C:\Users\Виктория\Desktop\Study\Архитектура ИС\LB1\obj\Debug\LB1.pdb
